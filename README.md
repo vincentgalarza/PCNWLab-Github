@@ -1,2 +1,3 @@
 # PCNWLab-Github
-Github topic
+
+1. [Problem Set 1](./pset1.js)
