@@ -19,6 +19,18 @@ PROBLEM 1:
     - cover_letter
 
 ******************/
-  
+
+
+/******************
+PROBLEM 2:
+
+1. Go to Github.com, signup using your git email.
+2. Create your first repository.
+3. Go back to 'my_portfolio'.
+4. Run the following command line commands:
+    > git remote add origin <Your_github_repo_url>
+    > git push -u origin master
+
+******************/
   
   
