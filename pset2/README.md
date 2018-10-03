@@ -16,6 +16,13 @@ Check out [showroom.me](https://showroom.me)!
 
 ---
 
+## TAs
+
+| <img src='images/michael.png' width='150'> | <img src='images/susana.png' width='150'> | <img src='images/carlos.png' width='150'> |
+| --- |--- | --- |
+| Michael | Susana | Carlos |
+
+
 ## Fellows
 
 ### Pamela Abreu
