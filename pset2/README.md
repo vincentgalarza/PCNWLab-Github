@@ -3,7 +3,7 @@
 ## Instructors
 
 ### Taq Karim
-<img src='images/taq.png' width='150'>
+<img src='images/belle_and_me.jpg' width='150'>
 
 See a Need, Fill a Need!" -- in a nutshell, really.
 
