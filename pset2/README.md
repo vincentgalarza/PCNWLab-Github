@@ -140,9 +140,9 @@ Insert about me
 
 ---
 ### Tarekul Islam
-<img src='' width='150'>
+<img src='images/tarek.png' width='150'>
 
-Insert about me
+I am Full Stack developer at Pursuit and part time CSc student at CCNY
 
 ---
 ### Hervey Lamothe
