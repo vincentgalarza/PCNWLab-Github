@@ -236,8 +236,8 @@ Insert about me
 
 ---
 ### Kevin Zheng
-<img src='' width='150'>
+<img src='images/kevinz.png' width='150'>
 
-Insert about me
+Uninteresting Short Bio
 
 ---
