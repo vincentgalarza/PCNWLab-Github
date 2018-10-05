@@ -104,9 +104,9 @@ Insert about me
 
 ---
 ### Vincent Galarza
-<img src='' width='150'>
+<img src='images/vgalarza.jpg' width='150'>
 
-Insert about me
+Chocolate chip cookies are the best.
 
 ---
 ### Nadav Green
